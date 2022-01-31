@@ -1,0 +1,15 @@
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/MIS221REPO
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/MIS221REPO.deps.json
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/MIS221REPO.runtimeconfig.json
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/MIS221REPO.dll
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/ref/MIS221REPO.dll
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/bin/Debug/net6.0/MIS221REPO.pdb
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.csproj.AssemblyReference.cache
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.AssemblyInfoInputs.cache
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.AssemblyInfo.cs
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.csproj.CoreCompileInputs.cache
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.dll
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/ref/MIS221REPO.dll
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.pdb
+/Users/aidanohalloran/Desktop/MIS221/Documents/source/REPOS/DOCS/MIS221REPO/obj/Debug/net6.0/MIS221REPO.genruntimeconfig.cache
